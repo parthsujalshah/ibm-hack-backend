@@ -7,7 +7,7 @@ django-allauth==0.42.0
 django-cors-headers==3.4.0
 django-environ==0.4.5
 django-rest-auth==0.9.5
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 ibm-cloud-sdk-core==1.5.1
 ibm-watson==4.5.0
 idna==2.10
